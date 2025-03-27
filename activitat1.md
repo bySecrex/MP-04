@@ -3,8 +3,15 @@
 ## 4.- Serveis
 
 - Utilitza webmin per mostrar els serveis que s'inicien amb el sistema.
+
+![image](https://github.com/user-attachments/assets/52e42d21-9ce4-423d-b48f-557f5ddf0420)
+
 - Utilitza webmin per mostrar els serveis que estan actius.
+
+![image](https://github.com/user-attachments/assets/e35ac7dd-ba00-4ead-97a9-4211e64e6dd8)
+
 - Utilitza webmin per mostrar l'estat del servidor Apache.
+
 - Utilitza webmin per aturar Apache.
 - Utilitza webmin per mostrar l'estat del servidor Apache apagat.
 - Utilitza webmin per reiniciar Apache.
