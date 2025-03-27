@@ -12,10 +12,25 @@
 
 - Utilitza webmin per mostrar l'estat del servidor Apache.
 
+![image](https://github.com/user-attachments/assets/d6673e96-13f6-4561-97cd-d0936d390d79)
+
 - Utilitza webmin per aturar Apache.
+
+![image](https://github.com/user-attachments/assets/44a28203-ef34-436c-9acc-7b12a9cfa50c)
+
 - Utilitza webmin per mostrar l'estat del servidor Apache apagat.
+
+![image](https://github.com/user-attachments/assets/b427431c-11ac-444d-8313-14098a1ba157)
+
 - Utilitza webmin per reiniciar Apache.
+
+![image](https://github.com/user-attachments/assets/c0e31830-60fc-469f-a29b-fd6fda4106c7)
+
 - Utilitza webmin per mostrar l'estat del servidor Apache reiniciat.
+
+![image](https://github.com/user-attachments/assets/04be2112-456f-42cb-8f95-694cd8a82e61)
+
+![image](https://github.com/user-attachments/assets/f35f2a46-15ea-49dd-90a4-ed826cbc20a1)
 
 ## 5.- Quotes de disc
 
@@ -24,11 +39,23 @@ Activa les quotes de disc pels usuaris amb la comanda:
 ```
 sudo apt install quota quotatool
 ```
+![image](https://github.com/user-attachments/assets/0a9b6018-5f02-4678-8234-944ba232cb98)
 
 - Utilitza webmin perquè l'usuari bakalao_X no pugui tenir més de 2 MB d'informació al disc.
+
+![image](https://github.com/user-attachments/assets/9eab0203-1faa-4d6a-baa3-2c91243fddae)
+
 - Comprova que el límit de la quota funciona.
+
+![image](https://github.com/user-attachments/assets/b87fb140-74fd-4907-84cb-7bda96afce76)
+
 - Utilitza webmin perquè l'usuari techno no pugui tenir més de 10 fitxers al disc.
+
+![image](https://github.com/user-attachments/assets/a6d342b0-5057-41d6-abd3-c97e3f35dcec)
+
 - Comprova que el límit de la quota funciona.
+
+![image](https://github.com/user-attachments/assets/0dbdf0c4-3201-45af-b7be-f14965d4c634)
 
 ## 6.- Còpies de seguretat
 
