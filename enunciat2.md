@@ -9,8 +9,8 @@ L'activitat consta de dues activitats i el treball final és fer un tutorial i u
 
 # IPs
 
-Linux: 192.168.X.100
-Windows: 192.168.X.10
+Linux: 192.168.2.100
+Windows: 192.168.2.10
 
 # Activitat 1 - Compartir una impressora de Linux a Windows
 
