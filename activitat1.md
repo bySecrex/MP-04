@@ -60,7 +60,12 @@ sudo apt install quota quotatool
 ## 6.- Còpies de seguretat
 
 - Utilitzant el mòdul de Webmin Filesystem Backup fes una còpia de seguretat del directori /home al directori /backups (l'haureu de crear si no existeix).
+
+![image](https://github.com/user-attachments/assets/8f4a0dd2-53de-4ce3-ac7b-7ca4442b961f)
+  
 - Modifica alguns fitxers de /home.
+
+
 - Recupera la còpia de seguretat.
 - Comprova que els fitxers de /home són els correctes.
 - Programa una còpia de seguretat de /home/bakalao_X per els divendres a les 21:00.
