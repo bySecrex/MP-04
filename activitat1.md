@@ -65,6 +65,7 @@ sudo apt install quota quotatool
   
 - Modifica alguns fitxers de /home.
 
+![image](https://github.com/user-attachments/assets/89d84d3e-3162-4533-8787-15ed9259a116)
 
 - Recupera la còpia de seguretat.
 - Comprova que els fitxers de /home són els correctes.
