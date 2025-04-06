@@ -1,5 +1,3 @@
-# Els anteriors punts estan fets per Nil
-
 ## 4.- Serveis
 
 - Utilitza webmin per mostrar els serveis que s'inicien amb el sistema.
