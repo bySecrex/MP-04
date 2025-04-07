@@ -69,7 +69,7 @@ I ja tenim l'impresora afegida i hauria d'estar compartida!
 
 ![image](https://github.com/user-attachments/assets/9094f854-9a91-4acc-ba93-eb5642973088)
 
-### **4. Com veure una impresora compartida desde Windows a Linux**
+## **4. Com veure una impresora compartida desde Windows a Linux**
 
 El unic requeriment per fer aixo es tenir Samba Client, teoricament instalat abans si has sigut el tutorial.
 
