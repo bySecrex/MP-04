@@ -1,4 +1,4 @@
-# Activitat Impresorea (Compartir de Linux (Ubuntu) a Windows)
+# Activitat Impresora (Compartir de Linux (Ubuntu) a Windows)
 
 ## Compartir de Linux a Windows
 
