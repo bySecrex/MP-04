@@ -140,13 +140,7 @@
   I ja no el tenim instalat
   ![image](https://github.com/user-attachments/assets/4847571a-5f69-41a4-8f85-6073c3ce710e)
 
-  
-## 4.- Serveis
 
-- Utilitza webmin per mostrar els serveis que s'inicien amb el sistema.
-  Anem a Bootup and Shutdown
-  ![image](https://github.com/user-attachments/assets/5b6e2179-ea6e-47e3-a4f4-f16378071c3c)
-  I en aquest apartat tots els serveis que fica Start at boot? Yes, vol dir que s'inicien amb el sistema, si baixem podem veure més serveis
 
 ## 4.- Serveis
 
