@@ -1,4 +1,4 @@
-# Utilitzant webmin per administrar el servidor
+# Utilitzant webmin per administrar el servidor (Nil i Oscar)
 
 ## 1.- Crear i modificar usuaris
 
