@@ -1,18 +1,5 @@
 # Utilitzant webmin per administrar el servidor
 
-- Entregueu link a un repositori **públic** (un link per alumne) de Github on feu les següents tasques.
-- Expliqueu el que feu amb text i captures.
-- **Fer tot des de webmin**
-- Rúbrica:
-  - 2 punts - Estructura del document (portada, índex, captures correctes, text ben formatat...).
-  - 1 punt - Exercici 1.
-  - 1 punt - Exercici 2.
-  - 1 punt - Exercici 3.
-  - 1 punt - Exercici 4.
-  - 1.5 punt - Exercici 5.
-  - 1.5 punt - Exercici 6.
-  - 1 punt - Exercici 7.
-
 ## 1.- Crear i modificar usuaris
 
 **Fer tot des de webmin**
