@@ -81,6 +81,10 @@ Només hauria falta canviar la IP del exemple per la del Windows teu i el nom de
 
 I ahi la tens! Si no et surt pot ser perque no esta compartida correctament o Samba Client no funciona correctament o no esta instalat (a mi no em surtia perque ja la tenia afegida)
 
+I aqui una prova de que la impressora funciona perfectament
+
+![image](https://github.com/user-attachments/assets/abcdea58-8a72-4c23-8f3a-4e63445ac57e)
+
 # Activitat 2 - Compartir una impressora de Windows a Linux
 
 ![image](https://github.com/user-attachments/assets/7a42e8ff-31e5-45ea-aef7-c8185fd57e3b)
